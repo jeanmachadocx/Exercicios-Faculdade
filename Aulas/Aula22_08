@@ -1,0 +1,20 @@
+Expressões Lógicas
+== igual
+!= diferente
+> maior que 
+< menor que
+>= maior igual
+<= menor igual
+
+Condicionais
+
+if(condição){
+    ...
+} else{
+    ...
+}
+
+Operadores Lógicos
+&& and - e
+|| or - ou 
+! not - não
