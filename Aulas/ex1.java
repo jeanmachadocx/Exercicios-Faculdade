@@ -1,4 +1,4 @@
-// //6. Escreva um programa Java para imprimir a soma, multiplicar, subtrair, dividir e o resto de dois números.
+ //6. Escreva um programa Java para imprimir a soma, multiplicar, subtrair, dividir e o resto de dois números.
 
 import java.util.*;
 public class ex1{
@@ -18,7 +18,7 @@ public static void main(String[] args) {
     System.out.println("Divisão = " +divisão);
     if(num1 > num2){
         resto = num1 % num2;
-        System.out.println("Resto da divisão= " + resto);
+        System.out.println("Resto da divisão = " + resto);
     }else{
         System.out.println("Não é possível realizar esse cálculo (resto) ");
     }
